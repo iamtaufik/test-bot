@@ -1,0 +1,4 @@
+2023/07/12-18:32:42.344 1030 Creating DB C:\Users\ASUS\Desktop\Web-Programing\Framework-Backend\bot-sticker\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2023/07/12-18:32:42.354 1030 Reusing MANIFEST C:\Users\ASUS\Desktop\Web-Programing\Framework-Backend\bot-sticker\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/12-18:32:42.496 1030 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/07/12-18:32:43.734 3d34 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
