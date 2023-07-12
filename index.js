@@ -16,15 +16,11 @@ client.on('ready', () => {
 });
 
 client.on('message', async (message) => {
-  if (message.body === '.menu') {
-    message.reply('*Chat AI* Silahkan kirim pesan dengan command *.ai {apa itu openai}*\n\n_Bot ini merupakan implementasi dari penggunaan OpenAi_\n\n_Taufik_');
-  }
-
   if (message.body === '.ping') message.reply('Pong!');
 
-  if (message.body === '.sticker') {
+  if (message.body === '.sticker' && message.type === 'image') {
     const sticker = await message.downloadMedia();
-    message.reply(sticker, null, { sendMediaAsSticker: true, stickerAuthor: 'ily tiaraa' });
+    message.reply(sticker, null, { sendMediaAsSticker: true, stickerAuthor: 'Mas Taufik' });
   }
 });
 
