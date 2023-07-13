@@ -6,13 +6,8 @@ const https = require('https');
 const qrcode = require('qrcode-terminal');
 dotenv.config();
 
-const execPath = process.env.NODE_ENV !== 'production' ? 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe' : '/usr/bin/google-chrome-stable';
-
 const client = new Client({
   authStrategy: new LocalAuth(),
-  puppeteer: {
-    executablePath: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
-  },
 });
 
 client.on('qr', (qr) => {
