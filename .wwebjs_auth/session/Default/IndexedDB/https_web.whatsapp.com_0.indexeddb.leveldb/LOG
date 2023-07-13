@@ -1,3 +1,13 @@
-2023/07/13-14:31:55.465 4714 Reusing MANIFEST C:\Users\ASUS\Desktop\Web-Programing\Framework-Backend\bot-sticker\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/07/13-14:31:55.466 4714 Recovering log #21
-2023/07/13-14:31:55.491 4714 Reusing old log C:\Users\ASUS\Desktop\Web-Programing\Framework-Backend\bot-sticker\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000021.log 
+2023/07/13-17:46:32.430 1de8 Reusing MANIFEST C:\Users\ASUS\Desktop\Web-Programing\Framework-Backend\bot-sticker\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/13-17:46:32.431 1de8 Recovering log #13
+2023/07/13-17:46:32.494 1de8 Reusing old log C:\Users\ASUS\Desktop\Web-Programing\Framework-Backend\bot-sticker\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000013.log 
+2023/07/13-18:35:39.210 25ac Level-0 table #18: started
+2023/07/13-18:35:39.248 25ac Level-0 table #18: 1412062 bytes OK
+2023/07/13-18:35:39.250 25ac Delete type=0 #13
+2023/07/13-18:35:40.609 25ac Compacting 1@1 + 1@2 files
+2023/07/13-18:35:40.673 25ac Generated table #19@1: 40028 keys, 2200573 bytes
+2023/07/13-18:35:40.679 25ac Generated table #20@1: 4590 keys, 88285 bytes
+2023/07/13-18:35:40.679 25ac Compacted 1@1 + 1@2 files => 2288858 bytes
+2023/07/13-18:35:40.680 25ac compacted to: files[ 0 0 2 0 0 0 0 ]
+2023/07/13-18:35:40.681 25ac Delete type=2 #15
+2023/07/13-18:35:40.681 25ac Delete type=2 #18
